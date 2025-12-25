@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer
 
-Building responsive UIs and scalable backend systems that users feel.
+Building responsive, user-centered interfaces backed by scalable APIs.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=for-the-badge)](https://kartikjondhalekar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jondhalekar/)
@@ -17,23 +17,13 @@ Building responsive UIs and scalable backend systems that users feel.
 
 ## 🚀 About Me
 
-```typescript
-const kartik = {
-  location: "Boston, MA 🇺🇸",
-  education: {
-    masters: "M.S. Computer Science @ Northeastern (GPA: 3.85/4.0)",
-    bachelors: "B.E. Electronics & Telecom @ Mumbai (GPA: 9.31/10.0)"
-  },
-  experience: "3+ years @ Chevron (via LTIMindtree)",
-  seeking: ["Full-Stack Engineering", "Front-End Development", "Web Development"],
-  currentFocus: ["React", "TypeScript", "Node.js", "Cloud Architecture"],
-  achievements: {
-    performance: "35% API latency reduction",
-    scale: "150K+ users supported",
-    reliability: "30% improvement in release stability"
-  }
-};
-```
+- 🎓 **M.S. in Computer Science** from Northeastern University (GPA: 3.85/4.0)
+- 🎓 **B.E. in Electronics & Telecom** from University of Mumbai (GPA: 9.31/10.0)
+- 💼 **3+ years** building modern UIs and enterprise APIs at **Chevron** (via LTIMindtree)
+- 🌍 Based in **Boston, MA** • Open to relocation
+- 🎨 Love crafting **responsive UIs** with React/Angular and building **reliable APIs** with Node.js/.NET
+- ⚡ **35% frontend load time improvement** • **150K+ users** • **30% API reliability boost**
+- 🎯 Seeking **Full-Stack**, **Front-End**, and **Software Engineering** roles
 
 ---
 
@@ -48,7 +38,7 @@ const kartik = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -80,7 +70,7 @@ const kartik = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 </td>
@@ -110,7 +100,7 @@ const kartik = {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-00D9FF?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4A90E2?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge)
@@ -138,17 +128,17 @@ const kartik = {
 </table>
 
 <details>
-<summary><b>Engineering & Security Practices</b></summary>
+<summary><b>⚙️ Engineering & Security Practices</b></summary>
 <br>
 
 **Architecture & Design:**  
-System Design • Microservices • REST APIs • API Design • OOP • Design Patterns
+System Design • Microservices • REST APIs • API Design • OOP • Design Patterns • Data Structures
 
 **Security:**  
 OAuth2/OIDC • MSAL • SSO • RBAC • Authentication & Authorization • Secure Coding • SAST/DAST • Compliance-Driven Development
 
 **Development Practices:**  
-Unit Testing • Integration Testing • Code Reviews • CI/CD Pipelines • Agile/Scrum • Git Workflow • Documentation • Performance Optimization
+Unit Testing • Integration Testing • Code Reviews • CI/CD Pipelines • Agile/Scrum • Git Workflow • Documentation • Performance Optimization • T-SQL
 
 </details>
 
@@ -160,7 +150,7 @@ Unit Testing • Integration Testing • Code Reviews • CI/CD Pipelines • Ag
 <tr>
 <td width="50%">
 
-### 🤖 [Ask Chinook](https://github.com/kartikjayramj/ask-chinook)
+### 🤖 [Ask Chinook](https://github.com/KartikJondhalekar/ask-chinook)
 **Natural Language → SQL Interface**
 
 Built intuitive chat interface for SQL queries with real-time results. Demonstrates production-grade LLM safety patterns.
@@ -175,7 +165,7 @@ Built intuitive chat interface for SQL queries with real-time results. Demonstra
 </td>
 <td width="50%">
 
-### 🏎️ [F1-GPT](https://github.com/kartikjayramj/f1-gpt)
+### 🏎️ [F1-GPT](https://github.com/KartikJondhalekar/f1-gpt)
 **AI-Powered F1 Knowledge System**
 
 Modern chat interface with streaming responses and glassmorphism UI. RAG architecture for accurate F1 insights.
@@ -193,7 +183,7 @@ Modern chat interface with streaming responses and glassmorphism UI. RAG archite
 <tr>
 <td width="50%">
 
-### 📚 [Kanbas LMS](https://github.com/kartikjayramj/kanbas-lms)
+### 📚 [Kanbas LMS](https://github.com/KartikJondhalekar/kanbas-lms)
 **Learning Management System**
 
 Responsive dashboard UI with reusable React components. Complete LMS feature set with role-based workflows.
@@ -208,7 +198,7 @@ Responsive dashboard UI with reusable React components. Complete LMS feature set
 </td>
 <td width="50%">
 
-### 🎟️ [Event RSVP Platform](https://github.com/kartikjayramj/event-rsvp)
+### 🎟️ [Event RSVP Platform](https://github.com/KartikJondhalekar/event-rsvp)
 **Serverless Event Management**
 
 Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full-stack ownership.
@@ -261,16 +251,14 @@ Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full
 
 ## 🎯 What I'm Working On
 
-```javascript
-const currentStatus = {
-  🔭 building: "Modern web applications with React and Next.js",
-  🌱 learning: "Advanced React patterns and cloud-native architectures",
-  👯 seeking: "Full-Stack and Front-End opportunities",
-  💬 askMeAbout: ["React", "TypeScript", "Node.js", "AWS", "System Design"],
-  📫 reach: "jondhalekar.k@northeastern.edu",
-  ⚡ funFact: "I improved enterprise API performance by 35% while supporting 150K users!"
-};
-```
+- 🎨 Crafting modern, accessible UIs with **React**, **Next.js**, and **TailwindCSS**
+- 🔧 Building scalable backend APIs with **Node.js**, **Express**, and **.NET**
+- 🤖 Integrating **AI/LLM features** into web applications
+- 🌱 Exploring **advanced React patterns** and **component libraries**
+- 👯 Seeking **Full-Stack**, **Front-End**, and **UI Engineering** opportunities
+- 💬 Ask me about **React**, **TypeScript**, **UI/UX**, **API Design**, **Cloud Architecture**
+- 📫 Reach me: **jondhalekar.k@northeastern.edu**
+- ⚡ Fun fact: I built chat interfaces with real-time AI streaming and improved enterprise UI performance by 35%!
 
 ---
 
@@ -293,17 +281,17 @@ const currentStatus = {
 
 ## 🛠️ Skills Breakdown
 
-**Full-Stack Development**  
-Building end-to-end applications from responsive UIs to scalable backend APIs
+**Frontend Development**  
+Crafting responsive, accessible UIs with React, Next.js, and modern CSS frameworks
 
-**Cloud Architecture**  
-Designing cloud-native solutions on Azure and AWS with containerization
+**Full-Stack Engineering**  
+Building end-to-end applications from polished interfaces to scalable backend APIs
+
+**Cloud & DevOps**  
+Deploying cloud-native solutions on Azure and AWS with CI/CD automation
 
 **AI Integration**  
-Implementing LLM-powered features with OpenAI, LangChain, and RAG patterns
-
-**Enterprise Systems**  
-Delivering reliable, compliant solutions for regulated industries
+Implementing LLM-powered chat interfaces with OpenAI, LangChain, and RAG
 
 ---
 
