@@ -161,6 +161,7 @@ Built intuitive chat interface for SQL queries with real-time results. Demonstra
 - ✨ Clean UI with real-time query results
 - 🔒 Enforced read-only execution
 - 📊 LangSmith observability
+<br />
 
 </td>
 <td width="50%">
@@ -176,6 +177,7 @@ Modern chat interface with streaming responses and glassmorphism UI. RAG archite
 - 🎨 Modern UI with real-time streaming
 - 🧠 Vector search + RAG for accuracy
 - ⚡ Sub-2s response times
+<br />
 
 </td>
 </tr>
@@ -194,6 +196,7 @@ Responsive dashboard UI with reusable React components. Complete LMS feature set
 - 🎓 Full course management system
 - 🔐 Role-based access (instructor/student)
 - 📱 Responsive, accessible design
+<br />
 
 </td>
 <td width="50%">
@@ -209,6 +212,7 @@ Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full
 - ☁️ Fully serverless architecture
 - 📈 Auto-scaling with demand
 - 💰 70% cost reduction vs traditional
+<br />
 
 </td>
 </tr>
