@@ -1,16 +1,331 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KartikJondhalekar/kartikjondhalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kartik Jondhalekar 👋
 
-Here are some ideas to get you started:
+### Full-Stack Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building responsive UIs and scalable backend systems that users feel.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=for-the-badge)](https://kartikjondhalekar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jondhalekar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jondhalekar.k@northeastern.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikJondhalekar)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const kartik = {
+  location: "Boston, MA 🇺🇸",
+  education: {
+    masters: "M.S. Computer Science @ Northeastern (GPA: 3.85/4.0)",
+    bachelors: "B.E. Electronics & Telecom @ Mumbai (GPA: 9.31/10.0)"
+  },
+  experience: "3+ years @ Chevron (via LTIMindtree)",
+  seeking: ["Full-Stack Engineering", "Front-End Development", "Web Development"],
+  currentFocus: ["React", "TypeScript", "Node.js", "Cloud Architecture"],
+  achievements: {
+    performance: "35% API latency reduction",
+    scale: "150K+ users supported",
+    reliability: "30% improvement in release stability"
+  }
+};
+```
+
+---
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Backend
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### Databases
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### AI & ML
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00D9FF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-4A90E2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Cloud & DevOps
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Engineering & Security Practices</b></summary>
+<br>
+
+**Architecture & Design:**  
+System Design • Microservices • REST APIs • API Design • OOP • Design Patterns
+
+**Security:**  
+OAuth2/OIDC • MSAL • SSO • RBAC • Authentication & Authorization • Secure Coding • SAST/DAST • Compliance-Driven Development
+
+**Development Practices:**  
+Unit Testing • Integration Testing • Code Reviews • CI/CD Pipelines • Agile/Scrum • Git Workflow • Documentation • Performance Optimization
+
+</details>
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Ask Chinook](https://github.com/kartikjayramj/ask-chinook)
+**Natural Language → SQL Interface**
+
+Built intuitive chat interface for SQL queries with real-time results. Demonstrates production-grade LLM safety patterns.
+
+**Stack:** `React` `TypeScript` `Node.js` `OpenAI` `LangChain`
+
+**Highlights:**
+- ✨ Clean UI with real-time query results
+- 🔒 Enforced read-only execution
+- 📊 LangSmith observability
+
+</td>
+<td width="50%">
+
+### 🏎️ [F1-GPT](https://github.com/kartikjayramj/f1-gpt)
+**AI-Powered F1 Knowledge System**
+
+Modern chat interface with streaming responses and glassmorphism UI. RAG architecture for accurate F1 insights.
+
+**Stack:** `React` `Next.js` `TypeScript` `OpenAI` `RAG`
+
+**Highlights:**
+- 🎨 Modern UI with real-time streaming
+- 🧠 Vector search + RAG for accuracy
+- ⚡ Sub-2s response times
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 [Kanbas LMS](https://github.com/kartikjayramj/kanbas-lms)
+**Learning Management System**
+
+Responsive dashboard UI with reusable React components. Complete LMS feature set with role-based workflows.
+
+**Stack:** `React` `Node.js` `Express` `MongoDB`
+
+**Highlights:**
+- 🎓 Full course management system
+- 🔐 Role-based access (instructor/student)
+- 📱 Responsive, accessible design
+
+</td>
+<td width="50%">
+
+### 🎟️ [Event RSVP Platform](https://github.com/kartikjayramj/event-rsvp)
+**Serverless Event Management**
+
+Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full-stack ownership.
+
+**Stack:** `JavaScript` `Node.js` `AWS Lambda` `DynamoDB`
+
+**Highlights:**
+- ☁️ Fully serverless architecture
+- 📈 Auto-scaling with demand
+- 💰 70% cost reduction vs traditional
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer @ LTIMindtree (Chevron)
+**Jun 2021 – Aug 2023 | Mumbai, India**
+
+- 🏗️ Architected microservices supporting **150K+ users** across regulated energy finance operations
+- ⚡ Reduced API processing latency by **35%** through query optimization and layered architecture
+- 🚀 Improved release stability by **30%** through containerization and observability practices
+- 🔍 Cut MTTR by **20%** using structured logging and distributed tracing
+- 🛡️ Reduced security audit findings by **45%** via RBAC and MSAL SSO implementation
+
+### Graduate Engineer Trainee @ LTIMindtree
+**Jan 2021 – Jun 2021 | Mumbai, India**
+
+- 🐛 Resolved critical defects in .NET and SQL modules through rigorous testing
+- 📖 Built foundations in OOP, secure coding, and maintainable design patterns
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikjayramj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=E5E7EB&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikjayramj&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikjayramj&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8)
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+```javascript
+const currentStatus = {
+  🔭 building: "Modern web applications with React and Next.js",
+  🌱 learning: "Advanced React patterns and cloud-native architectures",
+  👯 seeking: "Full-Stack and Front-End opportunities",
+  💬 askMeAbout: ["React", "TypeScript", "Node.js", "AWS", "System Design"],
+  📫 reach: "jondhalekar.k@northeastern.edu",
+  ⚡ funFact: "I improved enterprise API performance by 35% while supporting 150K users!"
+};
+```
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| Metric | Achievement |
+|--------|-------------|
+| 🚀 **Performance** | 35% API latency reduction |
+| 👥 **Scale** | 150K+ users supported |
+| 🛡️ **Security** | 45% reduction in audit findings |
+| 📦 **Reliability** | 30% improvement in release stability |
+| ⏱️ **Operations** | 20% faster mean time to resolution |
+| 💰 **Cost** | 25% infrastructure cost reduction |
+
+</div>
+
+---
+
+## 🛠️ Skills Breakdown
+
+**Full-Stack Development**  
+Building end-to-end applications from responsive UIs to scalable backend APIs
+
+**Cloud Architecture**  
+Designing cloud-native solutions on Azure and AWS with containerization
+
+**AI Integration**  
+Implementing LLM-powered features with OpenAI, LangChain, and RAG patterns
+
+**Enterprise Systems**  
+Delivering reliable, compliant solutions for regulated industries
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Currently seeking Full-Stack and Front-End roles**
+
+Open to relocation • Available immediately
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikjondhalekar.github.io)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jondhalekar/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kartikjayramj&color=38BDF8&style=for-the-badge&label=Profile+Views)
+
+**⭐ Star my repos if you find them interesting!**
+
+</div>
