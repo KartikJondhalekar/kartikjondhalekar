@@ -243,11 +243,11 @@ Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikJondhalekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=E5E7EB&count_private=true)
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikJondhalekar&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikJondhalekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikJondhalekar&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KartikJondhalekar&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com?user=KartikJondhalekar&theme=tokyonight&hide_border=true)
 
 </div>
 
