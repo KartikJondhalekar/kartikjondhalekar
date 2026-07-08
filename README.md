@@ -245,7 +245,7 @@ Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full
 
 ![Kartik's GitHub Stats](https://github-stats.vercel.app/api?username=KartikJondhalekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=E5E7EB&count_private=true)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikJondhalekar&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KartikJondhalekar&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KartikJondhalekar&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8)
 
 </div>
 
