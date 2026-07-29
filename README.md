@@ -8,7 +8,7 @@ Building responsive, user-centered interfaces backed by scalable APIs.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-38BDF8?style=for-the-badge)](https://kartikjondhalekar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jondhalekar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jondhalekar.k@northeastern.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kj.jondhalekar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikJondhalekar)
 
 </div>
@@ -259,7 +259,7 @@ Clean, responsive UI with serverless AWS backend. Demonstrates cloud-native full
 - 🌱 Exploring **advanced React patterns** and **component libraries**
 - 👯 Seeking **Full-Stack**, **Front-End**, and **UI Engineering** opportunities
 - 💬 Ask me about **React**, **TypeScript**, **UI/UX**, **API Design**, **Cloud Architecture**
-- 📫 Reach me: **jondhalekar.k@northeastern.edu**
+- 📫 Reach me: **kj.jondhalekar@gmail.com**
 - ⚡ Fun fact: I built chat interfaces with real-time AI streaming and improved enterprise UI performance by 35%!
 
 ---
